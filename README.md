@@ -1,8 +1,6 @@
 <h1 align="center">Hey!, I'm Gabriel Zanella</h1>
 <h3 align="center">A passionate Software Development student from IFRS - Campus Canoas</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zanellaz&label=Profile%20views&color=0e75b6&style=flat" alt="zanellaz" /> </p>
-
 - 🌱 I’m currently learning **C, Javascript, Typescript, React**
 
 - 📫 How to reach me **gabrielzbardini@gmail.com**
