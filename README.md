@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Software Development student from IFRS - Campus Canoas</h3>
+<!-- <h3 align="center">A passionate Software Development student from IFRS - Campus Canoas</h3> -->
 
 - 📫 How to reach me: **gabrielzbardini@gmail.com**
   
